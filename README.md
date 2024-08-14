@@ -1,8 +1,8 @@
-# Firewall Lab Project
+# Pfsense Firewall Configuration
 
 ## Objective
 
-The Firewall Lab project was designed to simulate the deployment and configuration of a firewall in a controlled virtual environment. The primary goal was to understand firewall architecture, configure network interfaces, and create appropriate rules to manage traffic between different network segments. This hands-on experience aimed to enhance practical skills in network security and firewall management.
+The Pfsense Firewall Configuration project was designed to simulate the deployment and configuration of a firewall in a controlled virtual environment. The primary goal was to understand firewall architecture, configure network interfaces, and create appropriate rules to manage traffic between different network segments. This hands-on experience aimed to enhance practical skills in network security and firewall management.
 
 ### Skills Learned
 
@@ -80,5 +80,3 @@ After installing Pfsense:
 ### Conclusion
 
 This lab provided practical experience with configuring firewall rules and understanding network security principles. The skills gained will be invaluable in real-world applications of network management and security.
-
----
